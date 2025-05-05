@@ -1,0 +1,15 @@
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/bin/Debug/net8.0/hw_2025_5_5
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/bin/Debug/net8.0/hw_2025_5_5.deps.json
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/bin/Debug/net8.0/hw_2025_5_5.runtimeconfig.json
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/bin/Debug/net8.0/hw_2025_5_5.dll
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/bin/Debug/net8.0/hw_2025_5_5.pdb
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/obj/Debug/net8.0/hw_2025_5_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/obj/Debug/net8.0/hw_2025_5_5.AssemblyInfoInputs.cache
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/obj/Debug/net8.0/hw_2025_5_5.AssemblyInfo.cs
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/obj/Debug/net8.0/hw_2025_5_5.csproj.CoreCompileInputs.cache
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/obj/Debug/net8.0/hw_2025_5_5.sourcelink.json
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/obj/Debug/net8.0/hw_2025_5_5.dll
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/obj/Debug/net8.0/refint/hw_2025_5_5.dll
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/obj/Debug/net8.0/hw_2025_5_5.pdb
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/obj/Debug/net8.0/hw_2025_5_5.genruntimeconfig.cache
+/Users/volodymyrdzoba/it-hub/ITStep-C#/c#-homework-from-12.4.2025/hw_2025_5_5/obj/Debug/net8.0/ref/hw_2025_5_5.dll
